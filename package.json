@@ -14,5 +14,25 @@
     "karma-firefox-launcher": "~0.1",
     "karma-phantomjs-launcher": "~0.1",
     "grunt-conventional-changelog": "~1.1"
-  }
+  },
+  "description": "AngularJS-native version of [Select2](http://ivaynberg.github.io/select2/) and [Selectize](http://brianreavis.github.io/selectize.js/).",
+  "version": "1.0.0",
+  "main": "Gruntfile.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fitasfiddle/angular-ui-select"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fitasfiddle/angular-ui-select/issues"
+  },
+  "homepage": "https://github.com/fitasfiddle/angular-ui-select#readme",
+  "keywords": [
+    "ui",
+    "select"
+  ]
 }
